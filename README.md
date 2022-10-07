@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mertcandev/music_player_ui">
-    <img src="assets/flutter-icon.png" alt="Logo" width="90" height="90">
+    <img src="assets/flutter-icon.png" alt="Logo" width="180" height="120">
   </a>
 
 <h3 align="center">Music Player UI with Neumorphic Design</h3>
