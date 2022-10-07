@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mertcandev/music_player_ui">
-    <img src="screenshots/firebase-logo.png" alt="Logo" width="320" height="90">
+    <img src="assets/flutter-icon.png" alt="Logo" width="320" height="90">
   </a>
 
 <h3 align="center">Neumorphic Music Player UI</h3>
@@ -63,7 +63,7 @@ This app demonstrates the usage of Neumorphic Design.
 
 <div align="center">
   <a href="https://github.com/mertcandev/music_player_ui">
-    <img src="assets/ss1.png" alt="Screenshot" width="250" height="500">
+    <img src="assets/ss1.png" alt="Screenshot" width="250" height="444">
     
   </a>
   </div>
